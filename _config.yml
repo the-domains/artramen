@@ -1,0 +1,28 @@
+name: ArtRamen
+favicon: null
+layout_spectrum: 0.28448314080014825
+typography_spectrum: 0.36616495600901544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7364887450821698
+  lightness: 0.8141624950803816
+  saturation: 0.1308138440363109
+  rhythmicContrast: 0.583894370123744
+purpose: []
