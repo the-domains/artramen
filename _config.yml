@@ -1,4 +1,8 @@
-layout_spectrum: 0.5010741
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5139635
-  lightness: 0.5332975
   brandStrength: 1
+  rhythmicContrast: 0.5838944
   brandColors:
     - '#FAFBFB'
     - '#AB9AE8'
     - '#6C31D8'
     - '#80FCD8'
     - '#4B87EA'
-  rhythmicContrast: 0.5838944
+  lightness: 0.5332975
 typography_spectrum: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: ArtRamen
