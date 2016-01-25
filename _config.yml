@@ -1,7 +1,7 @@
 name: ArtRamen
 favicon: null
-layout_spectrum: 0.28448314080014825
-typography_spectrum: 0.36616495600901544
+layout_spectrum: 0.71538
+typography_spectrum: 0.97077
 title: Art that makes you happy
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7364887450821698
-  lightness: 0.8141624950803816
+    - '#fbfbfb'
+    - '#6f36d9'
+    - '#937bdf'
+    - '#2500ca'
+    - '#82fed8'
+  brandStrength: 1
+  lightness: 0.875
   saturation: 0.1308138440363109
-  rhythmicContrast: 0.583894370123744
+  rhythmicContrast: 1
 purpose: []
